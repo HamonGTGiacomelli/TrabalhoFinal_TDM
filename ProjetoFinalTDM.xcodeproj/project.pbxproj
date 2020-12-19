@@ -16,7 +16,6 @@
 		BB4B79D0258AE910007F3B66 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BB4B79CE258AE910007F3B66 /* LaunchScreen.storyboard */; };
 		BB4B79DA258AED1E007F3B66 /* ListarEntradasTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB4B79D9258AED1E007F3B66 /* ListarEntradasTableViewController.swift */; };
 		BB4B79E1258D7BAE007F3B66 /* ResultadoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB4B79E0258D7BAE007F3B66 /* ResultadoViewController.swift */; };
-		BB4B79E4258D95F1007F3B66 /* Util.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB4B79E3258D95F1007F3B66 /* Util.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,7 +30,6 @@
 		BB4B79D1258AE910007F3B66 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BB4B79D9258AED1E007F3B66 /* ListarEntradasTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListarEntradasTableViewController.swift; sourceTree = "<group>"; };
 		BB4B79E0258D7BAE007F3B66 /* ResultadoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultadoViewController.swift; sourceTree = "<group>"; };
-		BB4B79E3258D95F1007F3B66 /* Util.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Util.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,7 +72,6 @@
 				BB4B79C9258AE907007F3B66 /* ProjetoFinalTDM.xcdatamodeld */,
 				BB4B79D9258AED1E007F3B66 /* ListarEntradasTableViewController.swift */,
 				BB4B79E0258D7BAE007F3B66 /* ResultadoViewController.swift */,
-				BB4B79E3258D95F1007F3B66 /* Util.swift */,
 			);
 			path = ProjetoFinalTDM;
 			sourceTree = "<group>";
@@ -153,7 +150,6 @@
 				BB4B79C5258AE907007F3B66 /* ViewController.swift in Sources */,
 				BB4B79DA258AED1E007F3B66 /* ListarEntradasTableViewController.swift in Sources */,
 				BB4B79C1258AE907007F3B66 /* AppDelegate.swift in Sources */,
-				BB4B79E4258D95F1007F3B66 /* Util.swift in Sources */,
 				BB4B79CB258AE907007F3B66 /* ProjetoFinalTDM.xcdatamodeld in Sources */,
 				BB4B79C3258AE907007F3B66 /* SceneDelegate.swift in Sources */,
 			);
